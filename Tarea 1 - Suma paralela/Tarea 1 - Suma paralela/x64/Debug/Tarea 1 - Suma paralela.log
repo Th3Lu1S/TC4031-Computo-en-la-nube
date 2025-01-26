@@ -1,0 +1,4 @@
+﻿  Tarea 1 - Suma paralela.cpp
+C:\Users\luisa\OneDrive\Maestria\Cómputo en la nube\Semana 3\proyectosOMP\Tarea 1 - Suma paralela\Tarea 1 - Suma paralela\Tarea 1 - Suma paralela.cpp(25,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\luisa\OneDrive\Maestria\Cómputo en la nube\Semana 3\proyectosOMP\Tarea 1 - Suma paralela\Tarea 1 - Suma paralela\Tarea 1 - Suma paralela.cpp(23,9): warning C4101: 'i': unreferenced local variable
+  Tarea 1 - Suma paralela.vcxproj -> C:\Users\luisa\OneDrive\Maestria\Cómputo en la nube\Semana 3\proyectosOMP\Tarea 1 - Suma paralela\x64\Debug\Tarea 1 - Suma paralela.exe
